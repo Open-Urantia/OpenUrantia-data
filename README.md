@@ -1,8 +1,8 @@
-# Urantia Papers JSON
+# OpenUrantia - Open-Source Urantia Papers Data
 
-Welcome to the "Urantia Papers JSON" repository, a hub for innovation and the development of diverse applications leveraging the rich and profound content of the Urantia Papers. This open-source collection, provided in a structured JSON format, is designed to facilitate the easy integration and accessibility of the Urantia Papers content for various projects, from academic research tools to spiritual study apps.
+Welcome to the "Open-Source Urantia Papers Data" repository, a hub for innovation and the development of diverse applications leveraging the rich and profound content of the Urantia Papers. This open-source collection provides both the Urantia Papers content in a structured JSON format and MP3 audio files for each paper. It is designed to facilitate the easy integration and accessibility of the Urantia Papers content for various projects, from academic research tools to spiritual study apps. Please use this data freely in your personal and commercial projects, and feel free to contribute to its enhancement and expansion.
 
-## Content Structure
+## JSON Content Structure
 
 The repository contains the Urantia Papers and their parts in JSON format, structured as follows:
 
@@ -55,9 +55,17 @@ The repository contains the Urantia Papers and their parts in JSON format, struc
   }
   ```
 
+## MP3 Audio Content
+
+The repository also includes the Urantia Papers audiobook content in MP3 format, organized by paper. The audio files provide an alternative way to experience the teachings and narratives of the Urantia Papers. The audio was generated using advanced text-to-speech technology using OpenAI's tts-1-hd model with the "Nora" voice.
+
+### Audio Structure
+
+- **Papers**: The audio files for each paper are named from `000.mp3` to `196.mp3`.
+
 ## Usage
 
-This data is provided under the MIT license, allowing for free use in both personal and commercial projects. The structured JSON format of the Urantia Papers content is ideal for a wide range of applications, from academic research tools to spiritual study apps.
+This data is provided under the MIT license, allowing for free use in both personal and commercial projects. The structured JSON format and MP3 audio files of the Urantia Papers content is ideal for a wide range of applications, from academic research tools to spiritual study apps.
 
 ### Leveraging Search Services like Algolia
 
@@ -91,9 +99,8 @@ This data's flexibility and openness encourage innovation and the development of
 
 Future enhancements for this repository include:
 
-- Adding `mp3` audio files for each paper.
 - Providing translations for each paper in multiple languages.
-- Extending the dataset with additional metadata and resources related to the Urantia Papers.
+- Extending the dataset with additional metadata and resources related to the Urantia Papers, such as AI-generated summaries or keyword extraction.
 
 ## Contributing
 
