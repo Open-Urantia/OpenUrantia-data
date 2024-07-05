@@ -1,6 +1,6 @@
-# Contributing to Urantia Papers JSON
+# Contributing
 
-We welcome contributions from the community, whether it's in the form of code, bug reports, feature requests, documentation improvements, or any other enhancements that can make the Urantia Papers JSON project more useful for everyone. Here's how you can contribute:
+We welcome contributions from the community, whether it's in the form of code, bug reports, feature requests, documentation improvements, or any other enhancements that can make the project more useful for everyone. Here's how you can contribute:
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ First, if you're new to GitHub or open-source contributing, it might be helpful 
 
 ### Reporting Issues
 
-If you find a bug or have a suggestion for improving the project, please use the [Issues](https://github.com/Open-Urantia/urantia-papers-json/issues) section of the repository. Before submitting a new issue, please:
+If you find a bug or have a suggestion for improving the project, please use the [Issues](https://github.com/Open-Urantia/OpenUrantia-data/issues) section of the repository. Before submitting a new issue, please:
 
 - Check the existing issues to avoid duplicates.
 - Clearly describe the issue or suggestion, providing all necessary details.
@@ -43,4 +43,4 @@ When submitting a pull request, please:
 
 If you have any questions or need further guidance, feel free to reach out to the project maintainers or ask in the project's Issues section.
 
-Thank you for contributing to the Urantia Papers JSON project!
+Thank you for contributing to the Urantia Papers open-source data project!
