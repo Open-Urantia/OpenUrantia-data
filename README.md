@@ -1,3 +1,17 @@
+> [!WARNING]
+> **This repository is deprecated and no longer maintained.**
+>
+> The data here is stale (older corpus, older audio model, no entities/embeddings/translations). Use one of the actively maintained sources below instead:
+>
+> - **Live API** — [api.urantia.dev](https://api.urantia.dev) — full-text + semantic search, paragraphs, entities, audio URLs, translations. Free and open. Docs at [urantia.dev](https://urantia.dev).
+> - **TypeScript SDK** — [`@urantia/api`](https://www.npmjs.com/package/@urantia/api) — typed client for the API. Source: [urantia-hub/urantia-dev-sdks](https://github.com/urantia-hub/urantia-dev-sdks).
+> - **Raw data + management scripts** — [urantia-hub/urantia-data-sources](https://github.com/urantia-hub/urantia-data-sources) — current papers JSON, TTS audio, entities, embeddings (hosted on R2, not in git).
+> - **MCP plugin** (for AI tools) — [urantia-hub/urantia-papers-plugin](https://github.com/urantia-hub/urantia-papers-plugin).
+>
+> Existing CDN URLs at `cdn.openurantia.com` continue to resolve, but new content lands at `api.urantia.dev` and the R2-backed sources above. This repo is kept public for archival purposes only.
+
+---
+
 # UrantiaHub - Open-Source Urantia Papers Data
 
 Welcome to the "Open-Source Urantia Papers Data" repository, a hub for innovation and development of diverse applications leveraging the rich and profound content of the Urantia Papers. This open-source collection provides both the Urantia Papers content in a structured JSON format and MP3 audio files for each paper and node. It is designed to facilitate easy integration and accessibility of the Urantia Papers content for various projects, from academic research tools to spiritual study apps. Please use this data freely in your personal and commercial projects, and feel free to contribute to its enhancement and expansion.
